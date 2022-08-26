@@ -6,5 +6,5 @@
 
 
 
- ![Snake animation](https://github.com/rafaballerini/kayrawebber/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kayrawebber/kayrawebber/blob/output/github-contribution-grid-snake.svg)
  
