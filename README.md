@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/kayrawebber">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kayrawebber&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrawebber&layout=compact&langs_count=7&theme=synthwave"/>
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Kayra-pic" height="130" style="border-radius:50px;" 
-     src="https://64.media.tumblr.com/1c58d89a993e309a7aab7f33c33ae843/4eacd366a2752c5f-8c/s540x810/571056b976c46debe24d083a17105aa75783faf3.jpg">
+     src="[https://64.media.tumblr.com/1c58d89a993e309a7aab7f33c33ae843/4eacd366a2752c5f-8c/s540x810/571056b976c46debe24d083a17105aa75783faf3.jpg](https://64.media.tumblr.com/04ec5480ab58b03817859450b5499972/2fc07b8dd9ba5960-7f/s540x810/7c45d67d62b948ec3e97feddc7ebeede03beafc9.jpg)">
 </div>
  
  ##
