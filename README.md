@@ -3,8 +3,8 @@
 ## Olá, eu sou a Kayra!
 
 <div align="center">
-  <a href="https://github.com/kayrawebber">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kayrawebber&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kayraawebber">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kayraawebber&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
@@ -26,7 +26,7 @@
  	<a href="https://www.twitch.tv/kayralh0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kayra@epigrafo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://www.tumblr.com/blog/view/lys-jane"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></a>
+   
    
  
  ![Snake animation](https://github.com/kayrawebber/kayrawebber/blob/output/github-contribution-grid-snake.svg)
