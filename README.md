@@ -29,7 +29,7 @@
    
    
  
- ![Snake animation](https://github.com/kayrawebber/kayrawebber/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kayraawebber/kayrawebber/blob/output/github-contribution-grid-snake.svg)
   
   
  </div>
